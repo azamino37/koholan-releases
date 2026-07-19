@@ -4,7 +4,7 @@
 
 ## ダウンロード
 
-**[⬇ 最新版をダウンロード（Koholan_DNA-AddIn64-packed.xll）](https://github.com/azamino37/koholan-releases/releases/latest/download/Koholan_DNA-AddIn64-packed.xll)**
+**[⬇ 最新版をダウンロード（Koholan_DNA-AddIn64-packed.xll）](https://github.com/koholan/koholan-releases/releases/latest/download/Koholan_DNA-AddIn64-packed.xll)**
 
 > このファイルは現在デジタル署名を付けていないため、ダウンロード時や初回起動時に「一般的にダウンロードされていません」「WindowsによってPCが保護されました」等の警告が表示されることがあります。これは正常です。「保持する」「詳細情報 → 実行」を選んで進めてください。
 
