@@ -1,7 +1,28 @@
-# Koholan DNA Releases
+# Koholan DNA
 
-Koholan DNA (Excel add-in) の配布用リポジトリです。
+コンサルタント向け Excel 生産性アドイン（書式ショートカット・AutoColor・AutoFormatting・Tracer・Pivot 補助など）。
 
-- 最新版のダウンロード: [Koholan_DNA-AddIn64-packed.xll](https://github.com/azamino37/koholan-releases/releases/latest/download/Koholan_DNA-AddIn64-packed.xll)
-- セットアップ手順はリリースに添付の案内をご覧ください。
-- 動作環境: Windows / 64bit Excel / .NET Framework 4.8
+## ダウンロード
+
+**[⬇ 最新版をダウンロード（Koholan_DNA-AddIn64-packed.xll）](https://github.com/azamino37/koholan-releases/releases/latest/download/Koholan_DNA-AddIn64-packed.xll)**
+
+> このファイルは現在デジタル署名を付けていないため、ダウンロード時や初回起動時に「一般的にダウンロードされていません」「WindowsによってPCが保護されました」等の警告が表示されることがあります。これは正常です。「保持する」「詳細情報 → 実行」を選んで進めてください。
+
+## 動作環境
+
+- Windows（Mac は非対応）
+- **64bit 版** の Microsoft Excel（32bit 版は非対応）
+- .NET Framework 4.8（Windows 10 version 1903 以降・Windows 11 は標準搭載）
+- 初回のライセンス有効化時のみインターネット接続が必要
+
+## セットアップ（約5分）
+
+1. 上のリンクから `.xll` をダウンロードし、右クリック →「プロパティ」→「許可する」にチェック（ブロック解除）。移動しない場所（例: `%APPDATA%\Koholan\`）に置く。
+2. Excel →「ファイル」→「オプション」→「アドイン」→ 管理「Excel アドイン」→「設定」→「参照」で `.xll` を登録。
+3. リボンの「Koholan」タブ →「ライセンス」ボタン → ライセンスキーを入力 →「有効化」。
+
+詳しい手順やトラブル対処は、購入時にお送りする案内メールをご参照ください。
+
+## ライセンス / お問い合わせ
+
+本アドインは有償ライセンス製です。ライセンスキーのご購入・お問い合わせは Ekola までご連絡ください。
